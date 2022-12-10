@@ -57,7 +57,7 @@
     "csurf": "~1.10.0",
     "date-fns": "^2.8.1",
     "dotenv": "~8.0.0",
-    "express": "~4.17.0",
+    "express": "~4.17.3",
     "express-session": "^1.16.2",
     "flash": "^1.1.0",
     "googleapis": "^39.2.0",
